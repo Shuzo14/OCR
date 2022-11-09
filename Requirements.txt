@@ -1,0 +1,7 @@
+OCR
+DL - DL No, DOB, Photo
+PAN - PAN No, Photo
+Aadhar - Aadhar No, Photo
+Voter ID - Photo, EPIC Number
+
+
